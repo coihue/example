@@ -1,3 +1,3 @@
-# django-deployment-example
+# example
 example
 conmit 1
